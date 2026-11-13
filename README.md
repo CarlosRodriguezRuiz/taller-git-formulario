@@ -13,7 +13,3 @@ taller-git-formulario/
 │   └── main.js
 └── README.md
 ```
-
-## Descripción
-
-TODO
